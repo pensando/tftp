@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/pin/tftp/v3/netascii"
+	"github.com/pensando/tftp/v3/netascii"
 )
 
 // OutgoingTransfer provides methods to set the outgoing transfer size and
